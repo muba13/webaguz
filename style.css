@@ -229,3 +229,12 @@ footer {
     font-size: 1.3rem;
   }
 }
+.hero {
+  background-image: url('fondo-cielo.jpg'); /* pon el nombre real de tu imagen aquí */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: var(--blanco);
+  padding: 80px 20px;
+  text-align: center;
+}
